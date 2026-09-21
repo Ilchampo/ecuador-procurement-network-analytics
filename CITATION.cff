@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: If you use this project, please cite it using this metadata.
+title: Ecuador Public Procurement Network Analytics
+type: software
+authors:
+  - family-names: Altamirano Diaz
+    given-names: Diana Nathaly
+  - family-names: Beltran Flores
+    given-names: Juan Pablo
+year: 2026
+license: MIT
+repository-code: https://github.com/nathalyusl/ecuador-procurement-network-analytics
+keywords:
+  - public procurement
+  - network analytics
+  - Ecuador
+  - Neo4j
+  - open contracting
